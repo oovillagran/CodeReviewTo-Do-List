@@ -190,7 +190,7 @@ If you like this project feel free to make any comment, all contributions are we
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse comunity, especially reviewers guys, they do an excellent job. I thank my learning, morning session and standup partners for supporting me.
+I would like to thank Microverse comunity. Thanks to my learning, morning session and standup partners for supporting me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
